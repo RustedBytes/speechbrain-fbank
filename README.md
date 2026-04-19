@@ -1,5 +1,7 @@
 # `speechbrain-fbank`
 
+[![Crates.io Version](https://img.shields.io/crates/v/speechbrain-fbank)](https://crates.io/crates/speechbrain-fbank)
+
 Rust speech feature extraction crate providing SpeechBrain-style FBANKs, MFCC, and STFT/ISTFT built on top of `realfft`/`rustfft`.
 
 ## Features
