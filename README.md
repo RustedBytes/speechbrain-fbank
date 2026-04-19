@@ -34,3 +34,7 @@ For frame-by-frame input, `FbankComputer::compute` remains available. The uttera
 ```
 cargo test --tests -- --nocapture
 ```
+
+## Also see
+
+- https://github.com/RustedBytes/kaldi-native-fbank
